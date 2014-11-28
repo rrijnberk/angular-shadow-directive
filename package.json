@@ -1,0 +1,30 @@
+{
+  "name": "angular-shadow-directive",
+  "version": "0.0.0",
+  "description": "A DDO wrapper service for angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrijnberk/angular-shadow-directive.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Shadow",
+    "Dom",
+    "Directives"
+  ],
+  "author": "Richard Rijnberk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrijnberk/angular-shadow-directive/issues"
+  },
+  "homepage": "https://github.com/rrijnberk/angular-shadow-directive",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-cli": "^0.1.13"
+  }
+}
